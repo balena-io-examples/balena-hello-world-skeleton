@@ -1,0 +1,8 @@
+
+// Things to keep in mind when writing a hello world server in the language. 
+
+// - The server starts on 0.0.0.0 to handle outbound connection in a docker container
+// - The server is listening on port 80
+// - The code is clear and preferrably documented
+// - The logs display the port number the server is listening on 
+// - The static files are served from the /views directory with negligible changes in order to get consistency among all hello-world examples.

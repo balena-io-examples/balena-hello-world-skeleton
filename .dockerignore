@@ -1,0 +1,4 @@
+# Add dockerignore files for the language stack
+# GitHub as you covered https://github.com/github/gitignore/ with few modifications
+
+.git 

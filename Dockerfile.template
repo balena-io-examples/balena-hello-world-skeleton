@@ -1,0 +1,8 @@
+# Be sure to have a Dockerfile.template for the project
+# Users will use this push releases to balenaCloud
+
+
+# Tips:
+
+# Make sure best practices are followed in the Dockerfile as this tends to be a learning experience for folks using docker for the first time
+# Pin your base images and ideally document the dockerfile steps
