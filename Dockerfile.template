@@ -6,3 +6,4 @@
 
 # Make sure best practices are followed in the Dockerfile as this tends to be a learning experience for folks using docker for the first time
 # Pin your base images and ideally document the dockerfile steps
+# Make sure to optimize the Dockerfile to the best extent possible.
