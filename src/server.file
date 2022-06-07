@@ -6,3 +6,4 @@
 // - The code is clear and preferrably documented
 // - The logs display the port number the server is listening on 
 // - The static files are served from the /views directory with negligible changes in order to get consistency among all hello-world examples.
+// - Keep the server and the entire example as simple as possible much like the other examples

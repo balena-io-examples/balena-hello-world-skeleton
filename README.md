@@ -1,4 +1,14 @@
-This is a skeleton repostiory to use as a template for adding support for a new language example in balena. 
+# balena-hello-world-skeleton
+
+This is a skeleton repostiory to use as a template for adding support for a new language example in balena. Make sure to keep the repository structure and files as uniform as possible with other balena-hello-world examples. Process to create a new language example:
+
+1. Create a new repository using this template. 
+2. Add your language specific server's source code, assets and files
+3. Build the `Dockerfile.template` and edit `.gitinore`, `.dockerignore` as needed 
+4. When implementation and testing is complete, finish adding details to `balena.yml`, `repo.yml`, `README.md` and a logo for the language.
+5. Push the changes to GitHub and have the repository transferred to balena-io-examples organization. 
+
+You can create issues on this template repository to let us know of a new language example that you are building and ask questions regarding the same.
 
 # A Simple Server with LANGUAGE
 
