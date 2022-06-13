@@ -4,8 +4,8 @@ joinable: false
 description: >-
   This is a simple skeleton LANGUAGE server that works on any of the devices
   supported by balena. It also serves as a boilerplate project for you to get
-  started on building your fleet. Use this skeleton to build new hello-world examples.
-  Have fun! 
+  started on building your fleet. Use this skeleton to build new hello-world
+  examples. Have fun! 
 post-provisioning: >-
   ## Usage instructions
 
@@ -26,3 +26,4 @@ data:
     - fincm3
     - beaglebone-black
     - jetson-tx2
+version: 0.1.1
